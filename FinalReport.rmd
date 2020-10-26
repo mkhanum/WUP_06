@@ -42,6 +42,7 @@ barchartGC(~BIGBANG + POSTLIFE,data=GSS)
 barchartGC(~BIGBANG + POSTLIFE,data=GSS, type="percent")
 
 ```
+The graph shows that there may not be a relationship between the belief in the BIGBANG theory and the belief in an afterlife (POSTLIFE). Despite of the belief in Big Bang Theory, the belief in the afterlife was high in both categories. 
 
 ### Numerical Descriptive Results
 
