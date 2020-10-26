@@ -42,6 +42,7 @@ barchartGC(~BIGBANG + POSTLIFE,data=GSS)
 barchartGC(~BIGBANG + POSTLIFE,data=GSS, type="percent")
 
 ```
+  
 The graph shows that there may not be a relationship between the belief in the BIGBANG theory and the belief in an afterlife (POSTLIFE). Despite of the belief in Big Bang Theory, the belief in the afterlife was high in both categories.   
 
 ### Numerical Descriptive Results
@@ -53,7 +54,7 @@ table1 <- xtabs(~BIGBANG + POSTLIFE, data=GSS)
 rowPerc(table1)
 colPerc(table1)
 ```
-The results show 91.67 percent of people who do not believe in the Big Bang Theory do believe in an afterlife. Also, 81.71 percent of people who do believe in the Big Bang Theory also believe in an afterlife. 
+The data show 91.67 percent of people who do not believe in the Big Bang Theory do believe in an afterlife. Also, 81.71 percent of people who do believe in the Big Bang Theory also believe in an afterlife. 
 With this in mind, it does not appear that there is a relationship between the two beliefs.  
 
 ## Inferential Results
